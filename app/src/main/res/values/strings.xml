@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Island History</string>
+    <string name="text_quiz">Text Multiple Choice</string>
+    <string name="visual">Visual Multiple Choice</string>
+    <string name="map_quiz">Map Quiz</string>
+    <string name="info_section">Information Section</string>
+    <string name="island_map">Island Map</string>
+    <string name="abaco">Abaco</string>
+    <string name="acklinks_and_crooked">Acklinks and Crooked Island</string>
+    <string name="acklinks_and_crooked_island">Acklinks and Crooked Island</string>
+    <string name="androd">Andros</string>
+    <string name="berry_island">Berry Island</string>
+    <string name="cat_island">Cat Island</string>
+    <string name="eluthera_new">Eleuthera (new)</string>
+    <string name="eleuthera">Eleuthera</string>
+    <string name="exuma">Exuma</string>
+    <string name="grand_bahama">Grand Bahama</string>
+    <string name="harbour_island">Harbour Island</string>
+    <string name="inagua">Inagua</string>
+    <string name="long_island">Long Island</string>
+    <string name="mayaguana">Mayaguana</string>
+    <string name="nassau">Nassau</string>
+    <string name="ragged_island">Ragged Island</string>
+    <string name="san_salvador">San Salvador</string>
+    <string name="shields">Shields</string>
+    <string name="quit">Quit</string>
+    <string name="score">Score: %1$d</string>
+    <string name="question_1_of_30">Question %1$d of 30</string>
+    <string name="quetion_1_o_33">Question %1$d of 33</string>
+</resources>

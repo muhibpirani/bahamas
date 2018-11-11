@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/abaco</item>
+        <item>@drawable/acklins_crooked_island</item>
+        <item>@drawable/andros</item>
+        <item>@drawable/berry_island</item>
+        <item>@drawable/cat_island</item>
+        <item>@drawable/eleuthera_new</item>
+        <item>@drawable/eleuthera</item>
+        <item>@drawable/exuma</item>
+        <item>@drawable/grand_bahama</item>
+        <item>@drawable/harbour_island</item>
+        <item>@drawable/inagua</item>
+        <item>@drawable/long_island</item>
+        <item>@drawable/mayaguana</item>
+        <item>@drawable/nassau</item>
+        <item>@drawable/ragged_island</item>
+        <item>@drawable/san_salvador</item>
+    </array>
+
+    <string-array name="optionsA">
+        <item>Andros</item>
+        <item>Black, Blue, Aqua</item>
+        <item>July 21st 1973</item>
+        <item>Sir Clifford Darling</item>
+        <item>August 22nd 1973</item>
+        <item>Sir Milo Butler</item>
+        <item>Pacific Ocean</item>
+        <item>Abaco</item>
+        <item>Onward, Together, I Put Forward</item>
+        <item>Andros</item>
+        <item>Mount Pleasant</item>
+        <item>Sir Milo Butler</item>
+        <item>Sir Milo Butler</item>
+        <item>Doris Johnson</item>
+        <item>Janet Bostwick</item>
+        <item>Janet Bostwick</item>
+        <item>Bahama Men</item>
+        <item>Sir Milo Butler, Sir Randol Fawkes</item>
+        <item>The country’s violent past</item>
+        <item>The country’s violent colonial past</item>
+        <item>Pig Island</item>
+        <item>March on Bahamaland</item>
+        <item>66 Steps</item>
+        <item>Fort Montagu</item>
+        <item>Arizona</item>
+        <item>Azul</item>
+        <item>Fort Montagu</item>
+        <item>Shorter route from Fort Fincastle to Nassau city</item>
+        <item>People, sea, sun</item>
+        <item>4</item>
+    </string-array>
+
+
+    <string-array name="optionsB">
+        <item>Ragged Island </item>
+        <item>Silver, Red, Green </item>
+        <item>July 10th 1973 </item>
+        <item>Sir Milo Butler </item>
+        <item>August 1st 1973 </item>
+        <item>Sir Randol Fawkes </item>
+        <item>Atlantic Ocean </item>
+        <item>Andros </item>
+        <item>Forward, Onward, Together </item>
+        <item>Cat Island </item>
+        <item>Mount Alvernia </item>
+        <item>Sir Randol Fawkes </item>
+        <item>Sir Lynden Pindling </item>
+        <item>Dame Ivy Dumont </item>
+        <item>Doris Johnson </item>
+        <item>Dame Ivy Dumont </item>
+        <item>KB </item>
+        <item>Sir Clifford Darling, Sir Lynden Pindling</item>
+        <item>The county’s promise of a new beginning </item>
+        <item>Majority rule </item>
+        <item>Mountain City </item>
+        <item>God Save the Queen</item>
+        <item>The Bridge </item>
+        <item>Fort Nassau</item>
+        <item>Switcha </item>
+        <item>Bonita </item>
+        <item>Fort Nassau </item>
+        <item>Shorter route from Fort Montagu to Nassau city</item>
+        <item>Sand sea land </item>
+        <item>5</item>
+
+    </string-array>
+
+    <string-array name="optionsC">
+        <item>Cat Island </item>
+        <item>Black White Red</item>
+        <item>August 1st 1972 </item>
+        <item>Sir Randol Fawkes </item>
+        <item>January 1st 1973</item>
+        <item>Sir Clifford Darling</item>
+        <item>Mediterranean Sea</item>
+        <item>Cat Island</item>
+        <item>Onward, Upward, Together </item>
+        <item>New Providence </item>
+        <item>Sears Hill </item>
+        <item>Sir Clifford Darling </item>
+        <item>Paul Adderley</item>
+        <item>Janet Bostwick</item>
+        <item>Dame Ivy Dumont</item>
+        <item>Doris Johnson</item>
+        <item>Ronnie Butler </item>
+        <item>Sir Milo Butler, Queen Victoria</item>
+        <item>Majority rule </item>
+        <item>Promise of a new beginning</item>
+        <item>Hog Island </item>
+        <item>March on Islanders </item>
+        <item>Tunnel </item>
+        <item>Fort Charlotte</item>
+        <item>Minute maid </item>
+        <item>Isla </item>
+        <item>Fort Fincastle </item>
+        <item>Shorter route from Fort Charlotte to Nassau city </item>
+        <item>Sand, sea, people </item>
+        <item>6  </item>
+
+    </string-array>
+
+    <string-array name="optionsD">
+        <item>Nassau</item>
+        <item>Black, Gold, Aquamarine</item>
+        <item>January 1st 1972</item>
+        <item>Sir Lynden Pindling</item>
+        <item>July 31st 1973</item>
+        <item>Sir Lynden Pindling</item>
+        <item>Blue Hole</item>
+        <item>Long Island</item>
+        <item>Forward,Upward,Onward,Together</item>
+        <item>Acklins</item>
+        <item>Gardens Hills</item>
+        <item>Sir Lynden Pindling</item>
+        <item>Janet Bostwick</item>
+        <item>Mable Walker</item>
+        <item>Mable Walker</item>
+        <item>Mable Walker</item>
+        <item>Timothy Gibson</item>
+        <item>Sir Milo Butler, Janet Bostwick</item>
+        <item>Promise of a new beginning</item>
+        <item>The country’s promise of new beginning</item>
+        <item>Mount Everest</item>
+        <item>March on Bahamas</item>
+        <item>Queen"'"s tower</item>
+        <item>Fort Fincastle</item>
+        <item>V-8</item>
+        <item>Baja Mar</item>
+        <item>Fort Charlotte</item>
+        <item>Shorter route from Fort Fincastle to Fort Charlotte</item>
+        <item>People, sand, trees</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="correctText">
+        <item>d</item>
+        <item>d</item>
+        <item>b</item>
+        <item>b</item>
+        <item>d</item>
+        <item>d</item>
+        <item>b</item>
+        <item>b</item>
+        <item>d</item>
+        <item>b</item>
+        <item>b</item>
+        <item>b</item>
+        <item>c</item>
+        <item>c</item>
+        <item>b</item>
+        <item>b</item>
+        <item>d</item>
+        <item>c</item>
+        <item>b</item>
+        <item>a</item>
+        <item>c</item>
+        <item>a</item>
+        <item>a</item>
+        <item>c</item>
+        <item>b</item>
+        <item>d</item>
+        <item>d</item>
+        <item>a</item>
+        <item>a</item>
+        <item>c</item>
+    </string-array>
+
+    <string-array name="questionsText">
+        <item>"What is the name of the capital city of the Bahamas?"</item>
+        <item>"What colors make up the Bahamian flag?"</item>
+        <item>"When did the Bahamas gain its independence?"</item>
+        <item>"Who was the first Bahamian Governor General?"</item>
+        <item>"When was the first Bahamian Governor General elected?"</item>
+        <item>"Who was the first Prime Minister of the Bahamas?"</item>
+        <item>"Which ocean can you find the Bahamas?"</item>
+        <item>"What is the largest island of the Bahamas?"</item>
+        <item>"What is the Bahamas motto?"</item>
+        <item>"Which Island of the Bahamas has the highest point?"</item>
+        <item>"What is the name given to the highest point in the Bahamas?"</item>
+        <item>"Who is known as the father of labor?"</item>
+        <item>"Who was the longest-serving Attorney General?"</item>
+        <item>"Who was the first woman to be elected in the House of Assembly?"</item>
+        <item>"Who was the first woman elected as President of the Bahamas Senate?"</item>
+        <item>"Who was the first female Governor General in the Bahamas?"</item>
+        <item>"Who wrote the national anthem?"</item>
+        <item>"Which two statues are at the adjoining Rawson Square and Parliament Square?"</item>
+        <item>"What is the meaning of Sir Milo Butler statue on Rawson Square?"</item>
+        <item>"What is the meaning of Queen Victoria statue on Parliament Square?"</item>
+        <item>"What was the previous name for Paradise Island?"</item>
+        <item>"What is the title of the national anthem?"</item>
+        <item>"What is another name for the Queen's staircase?"</item>
+        <item>"Which fort in the Bahamas never fired a shot in battle?"</item>
+        <item>"Which beverage is formulated in the Bahamas?"</item>
+        <item>"The name Bahamas came from which Spanish word?"</item>
+        <item>"Which is the largest fort?"</item>
+        <item>"What was the purpose for the Queen's staircase?"</item>
+        <item>"What do the colors of the flag represent?"</item>
+        <item>"How many national symbols represent the Bahamas?"</item>
+    </string-array>
+
+
+    <!-- visual Quiz-->
+
+    <string-array name="visualQuizQuestion">
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Artists</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Locations</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>Politics</item>
+    <item>National Symbol</item>
+    <item>National Symbol</item>
+    <item>National Symbol</item>
+    <item>National Symbol</item>
+    <item>National Symbol</item>
+    <item>National Symbol</item>
+    </string-array>
+
+    <string-array name="visualD">
+        <item>Landlord</item>
+        <item>Phil Stubbs</item>
+        <item>Baha Men</item>
+        <item>KB</item>
+        <item>Ira Storr</item>
+        <item>Clarence Bain</item>
+        <item>Ira Storr</item>
+        <item>Priscilla Rollins</item>
+        <item>KB</item>
+        <item>Veronica Bishop</item>
+        <item>Pompey Museum</item>
+        <item>Fort Charlotte</item>
+        <item>Sir Milo Butler</item>
+        <item>Fort Montagu</item>
+        <item>Sir Milo Butler</item>
+        <item>Atlantis</item>
+        <item>Queen"'"s Staircase</item>
+        <item>Fort Fincastle</item>
+        <item>Sir Lyden Pindling</item>
+        <item>Sir Lyden Pindling</item>
+        <item>Dame Ivy Dumont</item>
+        <item>Clarence Bain</item>
+        <item>Sir Milo Butler</item>
+        <item>Paul Adderley</item>
+        <item>Paul Adderley</item>
+        <item>Clarence Bain</item>
+        <item>Sir Randol Fawkes</item>
+        <item>Crest of Arms</item>
+        <item>Motto</item>
+        <item>Margaret fish</item>
+        <item>Swan</item>
+        <item>Lignum vitae</item>
+        <item>Sunflowers</item>
+    </string-array>
+    <string-array name="visualC">
+        <item>KB</item>
+        <item>Avvy</item>
+        <item>Doris Johnson</item>
+        <item>Baha Men</item>
+        <item>KB</item>
+        <item>Phil Stubbs</item>
+        <item>Veronica Bishop</item>
+        <item>Ronnie</item>
+        <item>Veronica Bishop</item>
+        <item>Clarence Bain</item>
+        <item>Fort Charlotte</item>
+        <item>Fort Fincastle</item>
+        <item>Atlantis </item>
+        <item>Queen Victoria</item>
+        <item>Pompey Museum </item>
+        <item>Fort Charlotte</item>
+        <item>Sir Milo Butler</item>
+        <item>Queen Victoria</item>
+        <item>Janet Bostwick</item>
+        <item>Clarence Bain</item>
+        <item>Paul Adderley</item>
+        <item>Doris Johnson</item>
+        <item>Dame Marguerite Pindling</item>
+        <item>Sir Milo Butler</item>
+        <item>Janet Bostwick</item>
+        <item>Doris Johnson</item>
+        <item>Doris Johnson</item>
+        <item>Coat of Arms</item>
+        <item>Flag</item>
+        <item>Snapper</item>
+        <item>Flamingo</item>
+        <item>Banana Tree</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="visualA">
+        <item>Ancient Man</item>
+        <item>Ancient Man</item>
+        <item>Avvy</item>
+        <item>Landlord</item>
+        <item>Veronica Bishop</item>
+        <item>Priscilla Rollins</item>
+        <item>Ronnie</item>
+        <item>Baha Men</item>
+        <item>Ronnie</item>
+        <item>Doris Johnson</item>
+        <item>Queen Victoria</item>
+        <item>Fort Nassau </item>
+        <item>Fort Fincastle</item>
+        <item>Fort Charlotte</item>
+        <item>Queen"'"s Staircase</item>
+        <item>Pompey Museum</item>
+        <item>Fort Nassau</item>
+        <item>Queen"'"s Staircase</item>
+        <item>Clarence Bain</item>
+        <item>Sir Randol Fawkes</item>
+        <item>Sir Milo Butler</item>
+        <item>Janet Bostwick</item>
+        <item>Paul Adderley</item>
+        <item>Dame Ivy Dumont</item>
+        <item>Sir Randol Fawkes</item>
+        <item>Sir Milo Butler</item>
+        <item>Janet Bostwick</item>
+        <item>Bahamas Crest</item>
+        <item>Coat of Arms</item>
+        <item>Blue Marlin</item>
+        <item>Pigeon</item>
+        <item>Apple Tree</item>
+        <item>Yellow Elder</item>
+    </string-array>
+    <string-array name="visualB">
+        <item>Baha Men</item>
+        <item>Ronnie</item>
+        <item>Clarence Bain</item>
+        <item>Ira Storr</item>
+        <item>Ronnie</item>
+        <item>Landlord</item>
+        <item>Phil Stubbs</item>
+        <item>KB</item>
+        <item>Ira Storr</item>
+        <item>Phil Stubbs</item>
+        <item>Atlantis</item>
+        <item>Queen Victoria </item>
+        <item>Queen"'"s Staircase</item>
+        <item>Pompey Museum</item>
+        <item>Fort Fincastle</item>
+        <item>Queen Victoria</item>
+        <item>Fort Fincastle</item>
+        <item>Sir Milo Butler</item>
+        <item>Doris Johnson</item>
+        <item>Doris Johnson</item>
+        <item>Dame Marguerite Pindling</item>
+        <item>Sir Randol Fawkes</item>
+        <item>Sir Lyden Pindling</item>
+        <item>Sir Randol Fawkes</item>
+        <item>Sir Lyden Pindling</item>
+        <item>Dame Marguerite Pindling</item>
+        <item>Dame Ivy Dumont</item>
+        <item>National Emblem</item>
+        <item>Shield</item>
+        <item>Grouper</item>
+        <item>Seagull</item>
+        <item>Sugar Apple Tree</item>
+        <item>Hibiscus</item>
+    </string-array>
+    <string-array name="visualCorrect">
+        <item>a</item>
+        <item>c</item>
+        <item>d</item>
+        <item>b</item>
+        <item>c</item>
+        <item>b</item>
+        <item>b</item>
+        <item>d</item>
+        <item>a</item>
+        <item>d</item>
+        <item>b</item>
+        <item>d</item>
+        <item>a</item>
+        <item>d</item>
+        <item>c</item>
+        <item>b</item>
+        <item>d</item>
+        <item>b</item>
+        <item>a</item>
+        <item>b</item>
+        <item>d</item>
+        <item>a</item>
+        <item>c</item>
+        <item>d</item>
+        <item>b</item>
+        <item>a</item>
+        <item>d</item>
+        <item>c</item>
+        <item>c</item>
+        <item>a</item>
+        <item>c</item>
+        <item>d</item>
+        <item>a</item>
+
+    </string-array>
+
+    <string-array name="mapQuizOptions">
+        <item>A</item>
+        <item>I</item>
+        <item>C</item>
+        <item>A</item>
+        <item>O</item>
+        <item>T</item>
+        <item>B</item>
+        <item>Q</item>
+        <item>A</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="mapQuizOptions1">
+        <item>A</item>
+        <item>U</item>
+        <item>K</item>
+        <item>E</item>
+        <item>O</item>
+        <item>B</item>
+        <item>N</item>
+        <item>M</item>
+        <item>K</item>
+        <item>X</item>
+        <item>&amp;</item>
+        <item>E</item>
+        <item>L</item>
+        <item>I</item>
+        <item>C</item>
+        <item>R</item>
+        <item>D</item>
+        <item>O</item>
+        <item>C</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="mapQuizOptions2">
+        <item>S</item>
+        <item>L</item>
+        <item>R</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Z</item>
+        <item>O</item>
+        <item>P</item>
+        <item>A</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="mapQuizOptions3">
+        <item>K</item>
+        <item>E</item>
+        <item>I</item>
+        <item>D</item>
+        <item>S</item>
+        <item>L</item>
+        <item>A</item>
+        <item>P</item>
+        <item>L</item>
+        <item>P</item>
+        <item>S</item>
+        <item>D</item>
+        <item>R</item>
+        <item>N</item>
+        <item>Y</item>
+        <item>X</item>
+        <item>B</item>
+        <item>U</item>
+        <item>W</item>
+        <item>R</item>
+    </string-array>
+    <string-array name="mapQuizOptions4">
+        <item>B</item>
+        <item>K</item>
+        <item>N</item>
+        <item>I</item>
+        <item>M</item>
+        <item>L</item>
+        <item>I</item>
+        <item>A</item>
+        <item>I</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="mapQuizOptions5">
+        <item>O</item>
+        <item>S</item>
+        <item>N</item>
+        <item>A</item>
+        <item>D</item>
+        <item>W</item>
+        <item>I</item>
+        <item>M</item>
+        <item>C</item>
+        <item>P</item>
+        <item>A</item>
+        <item>A</item>
+        <item>T</item>
+        <item>L</item>
+        <item>E</item>
+        <item>J</item>
+        <item>X</item>
+        <item>P</item>
+        <item>Y</item>
+        <item>Q</item>
+    </string-array>
+    <string-array name="mapQuizOptions6">
+        <item>M</item>
+        <item>U</item>
+        <item>&amp;</item>
+        <item>T</item>
+        <item>R</item>
+        <item>E</item>
+        <item>L</item>
+        <item>H</item>
+        <item>H</item>
+        <item>O</item>
+        <item>U</item>
+        <item>A</item>
+        <item>R</item>
+        <item>B</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>E</item>
+        <item>A</item>
+        <item>W</item>
+        <item>E</item>
+    </string-array>
+    <string-array name="mapQuizOptions7">
+        <item>M</item>
+        <item>W</item>
+        <item>A</item>
+        <item>S</item>
+        <item>E</item>
+        <item>G</item>
+        <item>X</item>
+        <item>P</item>
+        <item>U</item>
+        <item>I</item>
+    </string-array>
+    <string-array name="mapQuizOptions8">
+        <item>T</item>
+        <item>A</item>
+        <item>M</item>
+        <item>B</item>
+        <item>A</item>
+        <item>F</item>
+        <item>G</item>
+        <item>D</item>
+        <item>R</item>
+        <item>W</item>
+        <item>N</item>
+        <item>H</item>
+        <item>A</item>
+        <item>A</item>
+        <item>U</item>
+        <item>Z</item>
+        <item>K</item>
+        <item>V</item>
+        <item>Y</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="mapQuizOptions9">
+        <item>U</item>
+        <item>K</item>
+        <item>G</item>
+        <item>N</item>
+        <item>A</item>
+        <item>W</item>
+        <item>I</item>
+        <item>Q</item>
+        <item>A</item>
+        <item>Y</item>
+    </string-array>
+
+    <string-array name="mapQuizOptions10">
+        <item>Y</item>
+        <item>A</item>
+        <item>S</item>
+        <item>G</item>
+        <item>I</item>
+        <item>B</item>
+        <item>L</item>
+        <item>G</item>
+        <item>N</item>
+        <item>K</item>
+        <item>L</item>
+        <item>G</item>
+        <item>N</item>
+        <item>O</item>
+        <item>C</item>
+        <item>D</item>
+        <item>F</item>
+        <item>P</item>
+        <item>U</item>
+        <item>M</item>
+    </string-array>
+    <string-array name="mapQuizOptions11">
+        <item>T</item>
+        <item>A</item>
+        <item>A</item>
+        <item>N</item>
+        <item>M</item>
+        <item>E</item>
+        <item>A</item>
+        <item>W</item>
+        <item>G</item>
+        <item>K</item>
+        <item>Y</item>
+        <item>N</item>
+        <item>U</item>
+        <item>A</item>
+        <item>G</item>
+        <item>V</item>
+        <item>B</item>
+        <item>P</item>
+        <item>Z</item>
+        <item>X</item>
+    </string-array>
+    <string-array name="mapQuizOptions12">
+        <item>S</item>
+        <item>G</item>
+        <item>N</item>
+        <item>S</item>
+        <item>A</item>
+        <item>X</item>
+        <item>U</item>
+        <item>I</item>
+        <item>A</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="mapQuizOptions13">
+        <item>A</item>
+        <item>W</item>
+        <item>R</item>
+        <item>M</item>
+        <item>U</item>
+        <item>E</item>
+        <item>C</item>
+        <item>P</item>
+        <item>Y</item>
+        <item>I</item>
+    </string-array>
+    <string-array name="mapQuizOptions14">
+        <item>P</item>
+        <item>O</item>
+        <item>N</item>
+        <item>A</item>
+        <item>L</item>
+        <item>L</item>
+        <item>A</item>
+        <item>G</item>
+        <item>R</item>
+        <item>T</item>
+        <item>S</item>
+        <item>D</item>
+        <item>A</item>
+        <item>S</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>B</item>
+        <item>X</item>
+        <item>W</item>
+        <item>V</item>
+    </string-array>
+
+
+
+    <string-array name="mapQuizAnswers">
+        <item>ABACO</item>
+        <item>ACKLINS&amp;CROOKED</item>
+        <item>ANDROS</item>
+        <item>BERRYISLANDS</item>
+        <item>BIMINI</item>
+        <item>CATISLAND</item>
+        <item>ELEUTHERA&amp;HARBOUR</item>
+        <item>EXUMAS</item>
+        <item>GRANDBAHAMA</item>
+        <item>INAGUA</item>
+        <item>LONGISLAND</item>
+        <item>MAYAGUANA</item>
+        <item>NASSAU</item>
+        <item>RUMCAY</item>
+        <item>SANSALVADOR</item>
+    </string-array>
+
+</resources>
